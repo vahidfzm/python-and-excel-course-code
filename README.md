@@ -1,1 +1,1 @@
-# python-and-excel-course-code
+# Python & Excel Course Code & Materials
