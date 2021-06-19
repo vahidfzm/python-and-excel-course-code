@@ -1,4 +1,4 @@
-# Python & Excel Course Code & Materials
+# Python & Excel Course Code and Materials
 
 This repository contains the course source code and other materials like excel files.
 

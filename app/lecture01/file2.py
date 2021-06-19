@@ -24,4 +24,4 @@ cpws.title="My copy from Sheet1"
 
 
 # save the workbook
-wb.save(filename='lecture01/file2.xlsx')
+wb.save(filename='lecture01/list1Copy.xlsx')
