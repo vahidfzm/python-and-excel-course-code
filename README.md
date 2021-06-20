@@ -2,6 +2,7 @@
 
 This repository contains the course source code and other materials like excel files.
 
+[Course on Youtube](https://www.youtube.com/playlist?list=PL0fWTDFODMLo4DM7j9Tqot7K0ga2Hxyee)
 
 
 # Run in Docker
