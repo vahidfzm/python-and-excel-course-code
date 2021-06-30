@@ -1,0 +1,192 @@
+[
+    {
+        "OrderDate": "1/1/20",
+        "Region": "East",
+        "City": "Boston",
+        "Category": "Bars",
+        "Product": "Carrot",
+        "Quantity": "33",
+        "UnitPrice": "1.77",
+        "TotalPrice": "58.41"
+    },
+    {
+        "OrderDate": "1/4/20",
+        "Region": "East",
+        "City": "Boston",
+        "Category": "Crackers",
+        "Product": "Whole Wheat",
+        "Quantity": "87",
+        "UnitPrice": "3.49",
+        "TotalPrice": "303.63"
+    },
+    {
+        "OrderDate": "1/7/20",
+        "Region": "West",
+        "City": "Los Angeles",
+        "Category": "Cookies",
+        "Product": "Chocolate Chip",
+        "Quantity": "58",
+        "UnitPrice": "1.87",
+        "TotalPrice": "108.46"
+    },
+    {
+        "OrderDate": "1/10/20",
+        "Region": "East",
+        "City": "New York",
+        "Category": "Cookies",
+        "Product": "Chocolate Chip",
+        "Quantity": "82",
+        "UnitPrice": "1.87",
+        "TotalPrice": "153.34"
+    },
+    {
+        "OrderDate": "1/13/20",
+        "Region": "East",
+        "City": "Boston",
+        "Category": "Cookies",
+        "Product": "Arrowroot",
+        "Quantity": "38",
+        "UnitPrice": "2.18",
+        "TotalPrice": "82.84"
+    },
+    {
+        "OrderDate": "1/16/20",
+        "Region": "East",
+        "City": "Boston",
+        "Category": "Bars",
+        "Product": "Carrot",
+        "Quantity": "54",
+        "UnitPrice": "1.77",
+        "TotalPrice": "95.58"
+    },
+    {
+        "OrderDate": "1/19/20",
+        "Region": "East",
+        "City": "Boston",
+        "Category": "Crackers",
+        "Product": "Whole Wheat",
+        "Quantity": "149",
+        "UnitPrice": "3.49",
+        "TotalPrice": "520.01"
+    },
+    {
+        "OrderDate": "1/22/20",
+        "Region": "West",
+        "City": "Los Angeles",
+        "Category": "Bars",
+        "Product": "Carrot",
+        "Quantity": "51",
+        "UnitPrice": "1.77",
+        "TotalPrice": "90.27"
+    },
+    {
+        "OrderDate": "1/25/20",
+        "Region": "East",
+        "City": "New York",
+        "Category": "Bars",
+        "Product": "Carrot",
+        "Quantity": "100",
+        "UnitPrice": "1.77",
+        "TotalPrice": "177"
+    },
+    {
+        "OrderDate": "1/28/20",
+        "Region": "East",
+        "City": "New York",
+        "Category": "Snacks",
+        "Product": "Potato Chips",
+        "Quantity": "28",
+        "UnitPrice": "1.35",
+        "TotalPrice": "37.8"
+    },
+    {
+        "OrderDate": "1/31/20",
+        "Region": "East",
+        "City": "Boston",
+        "Category": "Cookies",
+        "Product": "Arrowroot",
+        "Quantity": "36",
+        "UnitPrice": "2.18",
+        "TotalPrice": "78.48"
+    },
+    {
+        "OrderDate": "2/3/20",
+        "Region": "East",
+        "City": "Boston",
+        "Category": "Cookies",
+        "Product": "Chocolate Chip",
+        "Quantity": "31",
+        "UnitPrice": "1.87",
+        "TotalPrice": "57.97"
+    },
+    {
+        "OrderDate": "2/6/20",
+        "Region": "East",
+        "City": "Boston",
+        "Category": "Crackers",
+        "Product": "Whole Wheat",
+        "Quantity": "28",
+        "UnitPrice": "3.49",
+        "TotalPrice": "97.72"
+    },
+    {
+        "OrderDate": "2/9/20",
+        "Region": "West",
+        "City": "Los Angeles",
+        "Category": "Bars",
+        "Product": "Carrot",
+        "Quantity": "44",
+        "UnitPrice": "1.77",
+        "TotalPrice": "77.88"
+    },
+    {
+        "OrderDate": "2/12/20",
+        "Region": "East",
+        "City": "New York",
+        "Category": "Bars",
+        "Product": "Carrot",
+        "Quantity": "23",
+        "UnitPrice": "1.77",
+        "TotalPrice": "40.71"
+    },
+    {
+        "OrderDate": "2/15/20",
+        "Region": "East",
+        "City": "New York",
+        "Category": "Snacks",
+        "Product": "Potato Chips",
+        "Quantity": "27",
+        "UnitPrice": "1.35",
+        "TotalPrice": "36.45"
+    },
+    {
+        "OrderDate": "2/18/20",
+        "Region": "East",
+        "City": "Boston",
+        "Category": "Cookies",
+        "Product": "Arrowroot",
+        "Quantity": "43",
+        "UnitPrice": "2.18",
+        "TotalPrice": "93.74"
+    },
+    {
+        "OrderDate": "2/21/20",
+        "Region": "East",
+        "City": "Boston",
+        "Category": "Cookies",
+        "Product": "Oatmeal Raisin",
+        "Quantity": "123",
+        "UnitPrice": "2.84",
+        "TotalPrice": "349.32"
+    },
+    {
+        "OrderDate": "2/24/20",
+        "Region": "West",
+        "City": "Los Angeles",
+        "Category": "Bars",
+        "Product": "Bran",
+        "Quantity": "42",
+        "UnitPrice": "1.87",
+        "TotalPrice": "78.54"
+    }
+]
